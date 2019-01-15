@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-language: python 
-python: 
-=======
 language: python
 python:
->>>>>>> desarrollo
 - "3.6"
 env: 
 - DJANGO=2.0 DB=postgres
